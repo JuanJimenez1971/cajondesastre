@@ -9,6 +9,7 @@ public class Pelota {
 	static Map<Integer,String> mapa = new HashMap<>();
 	
 	// Os presento el inicializador estático...
+	//prueba subida juan
 	
 	static {
 		System.out.println("el primer static");
